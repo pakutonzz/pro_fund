@@ -1,0 +1,7 @@
+﻿  lab6.cpp
+C:\Users\pakuton\Desktop\ce\pro_fund\lab6\lab6.cpp(13,14): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\pakuton\Desktop\ce\pro_fund\lab6\lab6.cpp(13,17): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\pakuton\Desktop\ce\pro_fund\lab6\lab6.cpp(64,27): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\pakuton\Desktop\ce\pro_fund\lab6\lab6.cpp(64,29): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\pakuton\Desktop\ce\pro_fund\lab6\lab6.cpp(80,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  lab6.vcxproj -> C:\Users\pakuton\Desktop\ce\pro_fund\lab6\x64\Debug\lab6.exe

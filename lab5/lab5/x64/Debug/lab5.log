@@ -1,0 +1,4 @@
+﻿  FileName.cpp
+C:\Users\pakuton\Desktop\ce\pro_fund\lab\lab5\FileName.cpp(7,14): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\pakuton\Desktop\ce\pro_fund\lab\lab5\FileName.cpp(7,17): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+  lab5.vcxproj -> C:\Users\pakuton\Desktop\ce\pro_fund\lab\x64\Debug\lab5.exe
